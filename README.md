@@ -9,7 +9,7 @@
         |logo
     index.html
 
-`img`
+![navbar](https://user-images.githubusercontent.com/52893501/159471539-8d8b6cfa-0d35-4a81-89a1-b7ffd3f60d66.png)
 
 ##### Navbar `HTML`
 
@@ -131,7 +131,7 @@
 
 ```
 
-`img`
+![header-invocation](https://user-images.githubusercontent.com/52893501/159471629-a33bf9cb-e259-49c5-b744-61a7dfba51c9.png)
 
 ##### invoice information `HTML`
 
@@ -328,7 +328,7 @@ input#from, input#to {
 
 ```
 
-`IMG`
+![old](https://user-images.githubusercontent.com/52893501/159471689-dcae8767-a271-4766-bdcc-1df0d812c073.png)
 
 ##### Older Invoices `HTML`
 
